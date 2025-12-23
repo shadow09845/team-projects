@@ -1,0 +1,35 @@
+.orab {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.ff{
+    width: 362px;
+height: 536px;
+top: 3770px;
+left: 147px;
+angle: 0 deg;
+opacity: 1;
+border-radius: 20px;
+}
+
+.ff p{
+    width: 302px;
+height: 78px;
+top: 4152px;
+left: 177px;
+angle: 0 deg;
+opacity: 0.7;
+}
+#q{
+    color: red;
+}
+a{
+    text-decoration: none;
+}
+.otasi{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
